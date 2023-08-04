@@ -1,0 +1,9 @@
+
+O
+java:S1610"9Convert the abstract class "UserUtils" into an interface.(ÿĞ´“
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÿĞ´“
+P
+java:S1133,"5Do not forget to remove this deprecated code someday.(ıÙ´…ûÿÿÿÿ
+C
+java:S1123,"(Add the missing @deprecated Javadoc tag.(ıÙ´…ûÿÿÿÿ

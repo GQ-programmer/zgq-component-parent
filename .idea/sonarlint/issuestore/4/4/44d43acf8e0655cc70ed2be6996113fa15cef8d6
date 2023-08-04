@@ -1,0 +1,90 @@
+
+m
+java:S3008"WRename this field "PROJECT_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹çÆà
+i
+java:S3008"SRename this field "SUB_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«æÖ›
+m
+java:S3008"WRename this field "PACKAGE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŽä¡
+q
+java:S3008""VRename this field "MODULE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒà¶ïûÿÿÿÿ
+x
+java:S3008&"]Rename this field "SUPER_ENTITY_CLASS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ížËÕúÿÿÿÿ
+g
+java:S3008*"QRename this field "AUTHOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‚Þ½
+q
+java:S3008."VRename this field "DRIVER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¬Î¨þÿÿÿÿ
+k
+java:S30082"URename this field "DRIVER_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÑ•¼
+s
+java:S30087"XRename this field "DATABASE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö´Ç‘üÿÿÿÿ
+q
+java:S3008<"[Rename this field "DRIVER_FULL_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÀÜ
+n
+java:S3008@"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¨äÈúÿÿÿÿ
+i
+java:S3008D"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÏüÀ
+q
+java:S3008I"[Rename this field "GENERATOR_TABLES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ñ˜÷
+m
+java:S3008L"WRename this field "TABLE_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ð™Ó
+h
+java:S3008O"RRename this field "CONVERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²°‚È
+P
+java:S1118":Add a private constructor to hide the implicit public one.(åˆÂØ
+V	java:S125^"<This block of commented-out lines of code should be removed.(øøâðýÿÿÿÿ
+H
+java:S1135]"2Complete the task associated to this TODO comment.(…ïœ†
+W
+java:S1874»"4Remove this use of "fileOverride"; it is deprecated.(³Ñ´úÿÿÿÿ8ˆ§§ˆ›1
+v
+java:S1488\"[Immediately return this expression instead of assigning it to the temporary variable "ipt".(íÅþûúÿÿÿÿ
+n
+java:S1104"XMake PROJECT_PATH a static final constant or non-public and provide accessors if needed.(¹çÆà
+j
+java:S1104"TMake SUB_PATH a static final constant or non-public and provide accessors if needed.(«æÖ›
+n
+java:S1104"XMake PACKAGE_PATH a static final constant or non-public and provide accessors if needed.(ÌŽä¡
+r
+java:S1104""WMake MODULE_NAME a static final constant or non-public and provide accessors if needed.(ƒà¶ïûÿÿÿÿ
+y
+java:S1104&"^Make SUPER_ENTITY_CLASS a static final constant or non-public and provide accessors if needed.(ížËÕúÿÿÿÿ
+h
+java:S1104*"RMake AUTHOR a static final constant or non-public and provide accessors if needed.(¤‚Þ½
+r
+java:S1104."WMake DRIVER_NAME a static final constant or non-public and provide accessors if needed.(Ä¬Î¨þÿÿÿÿ
+l
+java:S11042"VMake DRIVER_URL a static final constant or non-public and provide accessors if needed.(ãÑ•¼
+t
+java:S11047"YMake DATABASE_NAME a static final constant or non-public and provide accessors if needed.(ö´Ç‘üÿÿÿÿ
+r
+java:S1104<"\Make DRIVER_FULL_PATH a static final constant or non-public and provide accessors if needed.(•ÀÜ
+o
+java:S1104@"TMake USERNAME a static final constant or non-public and provide accessors if needed.(Ê¨äÈúÿÿÿÿ
+j
+java:S1104D"TMake PASSWORD a static final constant or non-public and provide accessors if needed.(žÏüÀ
+H
+java:S1444"2Make this "public static PROJECT_PATH" field final(¹çÆà
+D
+java:S1444".Make this "public static SUB_PATH" field final(«æÖ›
+H
+java:S1444"2Make this "public static PACKAGE_PATH" field final(ÌŽä¡
+L
+java:S1444""1Make this "public static MODULE_NAME" field final(ƒà¶ïûÿÿÿÿ
+S
+java:S1444&"8Make this "public static SUPER_ENTITY_CLASS" field final(ížËÕúÿÿÿÿ
+B
+java:S1444*",Make this "public static AUTHOR" field final(¤‚Þ½
+L
+java:S1444."1Make this "public static DRIVER_NAME" field final(Ä¬Î¨þÿÿÿÿ
+F
+java:S14442"0Make this "public static DRIVER_URL" field final(ãÑ•¼
+N
+java:S14447"3Make this "public static DATABASE_NAME" field final(ö´Ç‘üÿÿÿÿ
+L
+java:S1444<"6Make this "public static DRIVER_FULL_PATH" field final(•ÀÜ
+I
+java:S1444@".Make this "public static USERNAME" field final(Ê¨äÈúÿÿÿÿ
+D
+java:S1444D".Make this "public static PASSWORD" field final(žÏüÀ
+d
+java:S2637®"GParameter 1 to this call is marked "@NotNull" but null could be passed.(ÝŽ‚8ššÁˆ›1

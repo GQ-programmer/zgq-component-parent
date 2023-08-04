@@ -1,0 +1,50 @@
+
+K
+java:S1133\"5Do not forget to remove this deprecated code someday.(ü¡ÇÂ
+=
+java:S1123\"'Add the missing @Deprecated annotation.(ü¡ÇÂ
+H
+java:S1135a"2Complete the task associated to this TODO comment.(ûÿÓ®
+P
+java:S1133{"5Do not forget to remove this deprecated code someday.(¾şÚõÿÿÿÿÿ
+B
+java:S1123{"'Add the missing @Deprecated annotation.(¾şÚõÿÿÿÿÿ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(Äâ¾§
+>
+java:S1123"'Add the missing @Deprecated annotation.(Äâ¾§
+L
+java:S1133¡"5Do not forget to remove this deprecated code someday.(×Œò¸
+>
+java:S1123¡"'Add the missing @Deprecated annotation.(×Œò¸
+Q
+java:S1133±"5Do not forget to remove this deprecated code someday.(äêÿñúÿÿÿÿ
+C
+java:S1123±"'Add the missing @Deprecated annotation.(äêÿñúÿÿÿÿ
+=
+java:S1168Ì"&Return an empty array instead of null.(¥¹ï
+R	java:S125ö"<This block of commented-out lines of code should be removed.(Ïœ 
+i
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ŠŞâî
+>
+java:S1905û"'Remove this unnecessary cast to "Date".(øˆÅ­
+^	java:S125—"<This block of commented-out lines of code should be removed.(çïšÿÿÿÿÿ8§œÃ˜1
+c
+java:S1192Ğ"GDefine a constant instead of duplicating this literal "SSSSSS" 3 times.(µÈŸÖùÿÿÿÿ
+n
+java:S1192Ç"WUse already-defined constant 'DEFAULT_YM_FORMAT' instead of duplicating its value here.(ÂÔĞ×
+F
+java:S1066Ó"/Merge this if statement with the enclosing one.(éÄôÙ
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÇôßûÿÿÿÿ
+s
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "date".(ğº³¸
+w
+java:S1488“"[Immediately return this expression instead of assigning it to the temporary variable "str".(İŠÇ©ÿÿÿÿÿ
+Y
+java:S2259±"BA "NullPointerException" could be thrown; "date" is nullable here.(ŸÆÖÊ
+Y
+java:S2259Ù"BA "NullPointerException" could be thrown; "date" is nullable here.(¥Æ«¾
+Y
+java:S2259Û"BA "NullPointerException" could be thrown; "date" is nullable here.(Šºµû
+Y
+java:S2259Ã"BA "NullPointerException" could be thrown; "date" is nullable here.(¥Æ«¾

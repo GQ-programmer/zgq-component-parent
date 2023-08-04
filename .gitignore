@@ -1,0 +1,6 @@
+# Project exclude paths
+/zgq-component-common/target/
+/zgq-component-mp/target/
+/zgq-component-redis/target/
+/zgq-component-security/target/
+/zgq-component-web/target/

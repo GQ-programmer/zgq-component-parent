@@ -1,0 +1,25 @@
+
+r
+java:S1104"WMake projectPath a static final constant or non-public and provide accessors if needed.(ØÆˆ’ÿÿÿÿÿ
+n
+java:S1104"SMake subPath a static final constant or non-public and provide accessors if needed.(®ıáÆûÿÿÿÿ
+m
+java:S1104"WMake packagePath a static final constant or non-public and provide accessors if needed.(ç„¢
+q
+java:S1104"VMake moduleName a static final constant or non-public and provide accessors if needed.(Îœ‡¯ùÿÿÿÿ
+q
+java:S1104#"VMake superClass a static final constant or non-public and provide accessors if needed.(ÀëÓüÿÿÿÿ
+h
+java:S1104'"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›
+q
+java:S1104+"VMake driverName a static final constant or non-public and provide accessors if needed.(¦×‹îıÿÿÿÿ
+p
+java:S1104/"UMake driverUrl a static final constant or non-public and provide accessors if needed.(×íó„ûÿÿÿÿ
+n
+java:S11043"XMake dataBaseName a static final constant or non-public and provide accessors if needed.(å›Æ°
+p
+java:S11048"ZMake driverFullPath a static final constant or non-public and provide accessors if needed.(İ²­ğ
+j
+java:S1104<"TMake username a static final constant or non-public and provide accessors if needed.(Ü±›Ô
+o
+java:S1104@"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ

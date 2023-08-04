@@ -1,0 +1,20 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Šú÷œûÿÿÿÿ8ì“šÃ˜1
+/
+java:S2178"Correct this "&" to "&&".(öµ¾¹
+^	java:S125‹"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ8¤”šÃ˜1
+E
+java:S1066"/Merge this if statement with the enclosing one.(Þ¸±¢
+
+java:S1488Ï"eImmediately return this expression instead of assigning it to the temporary variable "currYearFirst".(à†¾žùÿÿÿÿ
+}
+java:S1488Ù"fImmediately return this expression instead of assigning it to the temporary variable "currMonthFirst".(ÊÞÁ—
+
+java:S1488á"eImmediately return this expression instead of assigning it to the temporary variable "currMonthLast".(–úØãýÿÿÿÿ
+€
+java:S1488ð"dImmediately return this expression instead of assigning it to the temporary variable "currYearLast".(§äã˜þÿÿÿÿ
+b
+java:S2259d"GA "NullPointerException" could be thrown; "startDate" is nullable here.(¹ÿÿÿÿÿ
+`
+java:S2259d"EA "NullPointerException" could be thrown; "endDate" is nullable here.(¹ÿÿÿÿÿ
